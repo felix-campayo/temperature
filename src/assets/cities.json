@@ -1,0 +1,14 @@
+[
+    {   "name": "Santiago",
+        "isoCodeCountry": "CL"
+    },
+    {   "name": "Buenos Aires",
+        "isoCodeCountry": "AR"
+    },
+    {   "name": "Lima",
+        "isoCodeCountry": "PE"
+    },
+    {   "name": "Sao Paulo",
+        "isoCodeCountry": "BR"
+    }
+]

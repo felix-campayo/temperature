@@ -1,0 +1,18 @@
+.main-container {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.spinner {
+    align-self: center;
+}
