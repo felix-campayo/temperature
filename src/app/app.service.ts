@@ -17,7 +17,7 @@ import { IHistory } from '../interfaces/history.interface';
 @Injectable()
 export class AppService {
 
-    private readonly URL: string = 'http://api.openweathermap.org/data/2.5/weather';
+    private readonly URL: string = 'https://api.openweathermap.org/data/2.5/weather';
     private readonly APP_ID: string = '1577a78450f1de14579f3be3702d6e59';
     private readonly CITIES_RESOURCES = '/assets/cities.json';
     private readonly CONF_RESOURCES = '/assets/conf.json';
